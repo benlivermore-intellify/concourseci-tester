@@ -6,9 +6,9 @@ image_resource:
   source: {repository: busybox}
 
 inputs:
-- name: resource-tutorial
+- name: resource-tester-repo
 - name: resource-app
-  path: gopath/src/github.com/cloudfoundry-community/simple-go-web-app
 
 run:
-  path: resource-tutorial/10_job_inputs/task_run_tests.sh
+  path: echo
+  args: [did run some tests]
