@@ -1,2 +1,4 @@
 # concourseci-tester
-A repo to test out concourse-ci with
+A repo with which to test out concourse-ci
+
+Testing this out.
