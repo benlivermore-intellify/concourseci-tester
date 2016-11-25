@@ -7,7 +7,6 @@ image_resource:
 
 inputs:
 - name: resource-tester-repo
-- name: resource-app
 
 run:
   path: echo
